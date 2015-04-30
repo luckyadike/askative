@@ -1,0 +1,20 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "askative",
+            "location": "South Central US"
+        },
+        "databases": [
+            {
+                "connectionStringName": "",
+                "databaseName": "",
+                "serverName": "",
+                "user": "",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": ""
+            }
+        ]
+    }
+}
